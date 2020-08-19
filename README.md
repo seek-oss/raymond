@@ -66,7 +66,7 @@ package main
 import (
     "fmt"
 
-    "github.com/aymerick/raymond"
+    "github.com/seek-oss/raymond"
 )
 
 func main() {
@@ -116,7 +116,7 @@ package main
 import (
     "fmt"
 
-    "github.com/aymerick/raymond"
+    "github.com/seek-oss/raymond"
 )
 
 func main() {
@@ -200,7 +200,7 @@ package main
 import (
   "fmt"
 
-  "github.com/aymerick/raymond"
+  "github.com/seek-oss/raymond"
 )
 
 func main() {
