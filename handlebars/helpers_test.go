@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/seek-oss/raymond"
+	"github.com/seek-oss/raymond/v2"
 )
 
 //

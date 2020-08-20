@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/seek-oss/raymond"
+	"github.com/seek-oss/raymond/v2"
 )
 
 // cf. https://github.com/aymerick/go-fuzz-tests/raymond

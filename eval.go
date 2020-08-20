@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/seek-oss/raymond/ast"
+	"github.com/seek-oss/raymond/v2/ast"
 )
 
 var (

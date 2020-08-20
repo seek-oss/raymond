@@ -3,7 +3,7 @@ package parser
 import (
 	"regexp"
 
-	"github.com/seek-oss/raymond/ast"
+	"github.com/seek-oss/raymond/v2/ast"
 )
 
 // whitespaceVisitor walks through the AST to perform whitespace control

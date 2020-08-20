@@ -1,4 +1,4 @@
-module github.com/seek-oss/raymond
+module github.com/seek-oss/raymond/v2
 
 go 1.14
 

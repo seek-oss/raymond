@@ -7,8 +7,8 @@ import (
 	"runtime"
 	"sync"
 
-	"github.com/seek-oss/raymond/ast"
-	"github.com/seek-oss/raymond/parser"
+	"github.com/seek-oss/raymond/v2/ast"
+	"github.com/seek-oss/raymond/v2/parser"
 )
 
 // Template represents a handlebars template.
